@@ -1,0 +1,17 @@
+192 
+Sumeg, vasutallomasSumeg, buszpalyaudvar 16 6 n
+Sumeg, buszpalyaudvarMogyorosi-domb, geologiai bemutatohely 24 8 n
+Mogyorosi-domb, geologiai bemutatohelySumegi bazaltbanya vasutallomas 13 43 n
+Sumegi bazaltbanya vasutallomasSarvaly erdeszhaz, pecsetelohely pecsetelohely 69 18 i
+Sarvaly erdeszhaz, pecsetelohelyLeteres a foldutrol a romos vadaszhaznal 82 66 n
+Leteres a foldutrol a romos vadaszhaznalKek rom jelzes kezdete Tatika varahoz 172 29 n
+Kek rom jelzes kezdete Tatika varahozHidegkuti major 9 135 n
+Hidegkuti majorLeteres a Sztupahoz 153 53 n
+Leteres a SztupahozZalaszanto, romai katolikus templom pecsetelohely 14 148 i
+Zalaszanto, romai katolikus templomLeteres az orszagutrol Rezi fele 26 51 n
+Leteres az orszagutrol Rezi feleRezi, leteres a pecsetelohelyhez pecsetelohely 112 13 i
+Rezi, leteres a pecsetelohelyhezGyongyosi csarda pecsetelohely 31 173 i
+Gyongyosi csardaEgregy, arpad-kori templom 134 109 n
+Egregy, arpad-kori templomHeviz, leteres az autobuszallomashoz pecsetelohely 20 49 i
+Heviz, leteres az autobuszallomashozKeszthely, Festetics kastely eszaki kapuja 58 32 n
+Keszthely, Festetics kastely eszaki kapujaKeszthely, leteres a vasutallomashoz pecsetelohely 3 36 i
